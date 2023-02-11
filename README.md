@@ -1,2 +1,2 @@
 # firsttry
-just try
+just try, learning how to use github
